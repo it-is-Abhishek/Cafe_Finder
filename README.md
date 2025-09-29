@@ -2,7 +2,7 @@
 
 A web application to discover nearby cafes, save your favorites, and explore locations without relying on Google Maps API.
 
-Screenshots
+# Screenshots
 <Img src = "./assets/cafe.png" alt = "Cafe text" height="700" width="700" />
 
 ## 🚀 Features
