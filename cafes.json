@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Kannu Ki Chai",
+    "id": "1",
+    "photo": "https://via.placeholder.com/250x150?text=Cozy+Corner",
+    "rating": 4.5
+  },
+  {
+    "name": "Cue Cafe",
+    "id": "2",
+    "photo": "https://via.placeholder.com/250x150?text=Urban+Brew",
+    "rating": 4.2
+  },
+  {
+    "name": "la Cheszy",
+    "id": "3",
+    "photo": "https://via.placeholder.com/250x150?text=Sunrise+Roasters",
+    "rating": 4.7
+  },
+  {
+    "name": "Cafe Love Bite",
+    "id": "4",
+    "photo": "https://via.placeholder.com/250x150?text=Daily+Grind",
+    "rating": 4.0
+  },
+  {
+    "name": "Cafe Durga",
+    "id": "5",
+    "photo": "https://via.placeholder.com/250x150?text=Bean+Haven",
+    "rating": 4.3
+  },
+  {
+    "name": "Cafe Chocolade",
+    "id": "6",
+    "photo": "https://via.placeholder.com/250x150?text=Espresso+Lab",
+    "rating": 4.6
+  },
+  {
+    "name": "Delight Brew Cafe",
+    "id": "7",
+    "photo": "https://via.placeholder.com/250x150?text=Morning+Mug",
+    "rating": 4.1
+  },
+  {
+    "name": "Cafe Vibes",
+    "id": "8",
+    "photo": "https://via.placeholder.com/250x150?text=Cafe+Vibes",
+    "rating": 4.4
+  },
+  {
+    "name": "Latte Lounge",
+    "id": "9",
+    "photo": "https://via.placeholder.com/250x150?text=Latte+Lounge",
+    "rating": 4.8
+  },
+  {
+    "name": "Brewed Awakening",
+    "id": "10",
+    "photo": "https://via.placeholder.com/250x150?text=Brewed+Awakening",
+    "rating": 4.2
+  },
+  {
+    "name": "Corner Cup",
+    "id": "11",
+    "photo": "https://via.placeholder.com/250x150?text=Corner+Cup",
+    "rating": 3.9
+  },
+  {
+    "name": "Java Junction",
+    "id": "12",
+    "photo": "https://via.placeholder.com/250x150?text=Java+Junction",
+    "rating": 4.5
+  },
+  {
+    "name": "Sip & Savor",
+    "id": "13",
+    "photo": "https://via.placeholder.com/250x150?text=Sip+%26+Savor",
+    "rating": 4.3
+  },
+  {
+    "name": "The Roast House",
+    "id": "14",
+    "photo": "https://via.placeholder.com/250x150?text=Roast+House",
+    "rating": 4.6
+  },
+  {
+    "name": "Cafe Escape",
+    "id": "15",
+    "photo": "https://via.placeholder.com/250x150?text=Cafe+Escape",
+    "rating": 4.0
+  },
+  {
+    "name": "Perk Up Cafe",
+    "id": "16",
+    "photo": "https://via.placeholder.com/250x150?text=Perk+Up",
+    "rating": 4.4
+  },
+  {
+    "name": "Mocha Moments",
+    "id": "17",
+    "photo": "https://via.placeholder.com/250x150?text=Mocha+Moments",
+    "rating": 4.7
+  },
+  {
+    "name": "Brew Bliss",
+    "id": "18",
+    "photo": "https://via.placeholder.com/250x150?text=Brew+Bliss",
+    "rating": 4.1
+  },
+  {
+    "name": "Cafe Harmony",
+    "id": "19",
+    "photo": "https://via.placeholder.com/250x150?text=Cafe+Harmony",
+    "rating": 4.5
+  },
+  {
+    "name": "Daily Dose Cafe",
+    "id": "20",
+    "photo": "https://via.placeholder.com/250x150?text=Daily+Dose",
+    "rating": 4.2
+  }
+]
