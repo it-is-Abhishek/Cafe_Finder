@@ -32,16 +32,16 @@ function displayCards(cafes) {
       <img src="${imgUrl}" alt="${cafe.name}" />
       <h3>${cafe.name}</h3>
       <p>⭐️ Rating: ${cafe.rating}</p>
-      <button onclick="saveCafe('${JSON.stringify(cafeData).replace(/'/g, "\\'")}')">Save 💖</button>
+      <button class="save-btn">Save 💖</button>
     `;
 
     container.appendChild(card);
+    card.querySelector('.save-btn').addEventListener('click', () => saveCafe(cafeData));
   });
 }
 
 
-function saveCafe(cafeJSON) {
-  const cafe = JSON.parse(cafeJSON);
+function saveCafe(cafe) {
   let saved = JSON.parse(localStorage.getItem('savedCafes') || '[]');
   if (!saved.find(c => c.id === cafe.id)) {
     saved.push(cafe);
@@ -72,3 +72,5 @@ function showSaved() {
     container.appendChild(card);
   });
 }
+
+localStorage.removeItem('savedCafes');
