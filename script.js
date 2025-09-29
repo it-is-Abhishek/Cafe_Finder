@@ -32,7 +32,7 @@ function displayCards(cafes) {
       <img src="${imgUrl}" alt="${cafe.name}" />
       <h3>${cafe.name}</h3>
       <p>⭐️ Rating: ${cafe.rating}</p>
-      <button class="save-btn">Save 💖</button>
+      <button class="save-btn">Save</button>
     `;
 
     container.appendChild(card);
