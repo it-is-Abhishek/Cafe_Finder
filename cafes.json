@@ -2,121 +2,49 @@
   {
     "name": "Kannu Ki Chai",
     "id": "1",
-    "photo": "https://via.placeholder.com/250x150?text=Cozy+Corner",
+    "photo": "https://imgs.search.brave.com/HbeL48tTTf8oAwkg5f6_RAB3iPV--AcH6P3l3AZz3z4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL1I5/aHhsOUNtNVo2V2d5/bF9YWXpfWUdySnBo/T3VjTUxGRk9jV2Ri/V2l2c19tZ0JYaVFO/dWdBUmVuSVZLLXlI/MlVTVWkzN1AwRklv/VXpqWXpUVzFOS1VK/QktkM0tlRzBBMG9R/TlJGMEU9dzUxMi1y/dw",
     "rating": 4.5
   },
   {
     "name": "Cue Cafe",
     "id": "2",
-    "photo": "https://via.placeholder.com/250x150?text=Urban+Brew",
+    "photo": "https://imgs.search.brave.com/zjWbQw4PvLehArPLNGbhr9GKWpR7lgs5vds54Mz_eAQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdm/cC5ob3RwLmpwL0lN/R0gvOTEvMjUvUDAx/MjQzOTEyNS9QMDEy/NDM5MTI1XzM2OC5q/cGc",
     "rating": 4.2
   },
   {
     "name": "la Cheszy",
     "id": "3",
-    "photo": "https://via.placeholder.com/250x150?text=Sunrise+Roasters",
+    "photo": "https://imgs.search.brave.com/OrtVHJWpZxNH2fc_RuusauSwgqVbOJJtTMpkVUrkirM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9saXJw/LmNkbi13ZWJzaXRl/LmNvbS9kYWM5Yzcz/OS9kbXMzcmVwL211/bHRpL29wdC9nYWww/My01NTloLmpwZw",
     "rating": 4.7
   },
   {
     "name": "Cafe Love Bite",
     "id": "4",
-    "photo": "https://via.placeholder.com/250x150?text=Daily+Grind",
+    "photo": "https://imgs.search.brave.com/T7F7VmfjyLcS_TCzBQIvxFfoo5OyKKqGafEbG7bOlNo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kYWls/eWJpdGUuY28udWsv/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MTAvYWJvdXQtZGFp/bHliaXRlLTEwMjR4/NTc2LmpwZw",
     "rating": 4.0
   },
   {
     "name": "Cafe Durga",
     "id": "5",
-    "photo": "https://via.placeholder.com/250x150?text=Bean+Haven",
+    "photo": "https://imgs.search.brave.com/7l1CkjCxXK1Np_wPoeVD76_HzmBvp7Po_hUoyBJatkE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maWxl/cy55YXBwZS5pbi9w/bGFjZS9zbWFsbC9j/YWZlLWR1cmdhLTM2/OTI3OTgud2VicA",
     "rating": 4.3
   },
   {
     "name": "Cafe Chocolade",
     "id": "6",
-    "photo": "https://via.placeholder.com/250x150?text=Espresso+Lab",
+    "photo": "https://imgs.search.brave.com/2gJJIqJL5ywaCOEdyAm7UaFBoLfHNIOM2uaBd1VOWb0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jZG4udHJpcGFk/dmlzb3IuY29tL21l/ZGlhL3Bob3RvLW8v/MGQvYmEvYmMvY2Ev/d2FsaGFsbGEtdm9v/ci1kZS1jaG9jb2xh/ZGUuanBn",
     "rating": 4.6
   },
   {
     "name": "Delight Brew Cafe",
     "id": "7",
-    "photo": "https://via.placeholder.com/250x150?text=Morning+Mug",
+    "photo": "https://imgs.search.brave.com/zIjL6CSlCk_5xV3jSBt2cPOwrbXXcV_qg8ZSO73FKVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmV3/LXJvb20uY28udWsv/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MTEvYnJldy1yb29t/LWFydGlzYW4tY2Fm/ZS5qcGc",
     "rating": 4.1
   },
   {
     "name": "Cafe Vibes",
     "id": "8",
-    "photo": "https://via.placeholder.com/250x150?text=Cafe+Vibes",
+    "photo": "https://imgs.search.brave.com/esOOPIU8VloIB8JePk7OfQaGId3McBwU0Uxww3f_oOU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMy1t/ZWRpYTAuZmwueWVs/cGNkbi5jb20vYnBo/b3RvL3hoOWtDUnll/el9UU1p1c0tnakp5/RFEvbC5qcGc",
     "rating": 4.4
-  },
-  {
-    "name": "Latte Lounge",
-    "id": "9",
-    "photo": "https://via.placeholder.com/250x150?text=Latte+Lounge",
-    "rating": 4.8
-  },
-  {
-    "name": "Brewed Awakening",
-    "id": "10",
-    "photo": "https://via.placeholder.com/250x150?text=Brewed+Awakening",
-    "rating": 4.2
-  },
-  {
-    "name": "Corner Cup",
-    "id": "11",
-    "photo": "https://via.placeholder.com/250x150?text=Corner+Cup",
-    "rating": 3.9
-  },
-  {
-    "name": "Java Junction",
-    "id": "12",
-    "photo": "https://via.placeholder.com/250x150?text=Java+Junction",
-    "rating": 4.5
-  },
-  {
-    "name": "Sip & Savor",
-    "id": "13",
-    "photo": "https://via.placeholder.com/250x150?text=Sip+%26+Savor",
-    "rating": 4.3
-  },
-  {
-    "name": "The Roast House",
-    "id": "14",
-    "photo": "https://via.placeholder.com/250x150?text=Roast+House",
-    "rating": 4.6
-  },
-  {
-    "name": "Cafe Escape",
-    "id": "15",
-    "photo": "https://via.placeholder.com/250x150?text=Cafe+Escape",
-    "rating": 4.0
-  },
-  {
-    "name": "Perk Up Cafe",
-    "id": "16",
-    "photo": "https://via.placeholder.com/250x150?text=Perk+Up",
-    "rating": 4.4
-  },
-  {
-    "name": "Mocha Moments",
-    "id": "17",
-    "photo": "https://via.placeholder.com/250x150?text=Mocha+Moments",
-    "rating": 4.7
-  },
-  {
-    "name": "Brew Bliss",
-    "id": "18",
-    "photo": "https://via.placeholder.com/250x150?text=Brew+Bliss",
-    "rating": 4.1
-  },
-  {
-    "name": "Cafe Harmony",
-    "id": "19",
-    "photo": "https://via.placeholder.com/250x150?text=Cafe+Harmony",
-    "rating": 4.5
-  },
-  {
-    "name": "Daily Dose Cafe",
-    "id": "20",
-    "photo": "https://via.placeholder.com/250x150?text=Daily+Dose",
-    "rating": 4.2
   }
 ]
