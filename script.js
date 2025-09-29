@@ -9,6 +9,24 @@ async function getLocation() {
   }
 }
 
-function displayCards(cafes) {
 
+function displayCards(cafes) {
+  const container = document.querySelector('.cards');
+  container.innerHTML = '';
+
+  cafes.forEach((cafe) => {
+    const card = document.createElement('div');
+    card.className = 'location-card';
+
+    const imgUrl = cafe.photo;
+
+    const cafeData = {
+      name: cafe.name,
+      id: cafe.id,
+      photo: imgUrl,
+      rating: cafe.rating
+    };
+
+    container.appendChild(card);
+  });
 }
