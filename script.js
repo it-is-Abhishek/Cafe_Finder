@@ -30,3 +30,15 @@ function displayCards(cafes) {
     container.appendChild(card);
   });
 }
+
+function saveCafe(cafeJSON) {
+  const cafe = JSON.parse(cafeJSON);
+  let saved = JSON.parse(localStorage.getItem('savedCafes') || '[]');
+  if (!saved.find(c => c.id === cafe.id)) {
+    saved.push(cafe);
+    localStorage.setItem('savedCafes', JSON.stringify(saved));
+    alert(`${cafe.name} saved!`);
+  } else {
+    alert(`${cafe.name} is already saved.`);
+  }
+}
